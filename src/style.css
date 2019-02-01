@@ -1,0 +1,161 @@
+
+body	{	
+    font-size:	1em;
+    font-weight:	normal;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    font-family:	Myriad Web, Geneva, Arial, Helvetica, sans-serif;
+    font-size-adjust:	.48;
+    background: rgb(55, 206, 156);
+    background: -moz-linear-gradient(left, rgb(55, 206, 80) 0%, #1C6EA4 44%, #C59237 100%);
+    background: -webkit-linear-gradient(left, rgb(55, 206, 80) 0%, #1C6EA4 44%, #C59237 100%);
+    background: linear-gradient(to right, rgb(55, 206, 80) 0%, #1C6EA4 44%, #C59237 100%);   
+    }	
+        
+        
+small	{	
+    font-size:	.92em;
+    }	
+        
+big	{	
+    font-size:	1.17em;
+    }	
+        
+pre	{	
+    font-family:	'Monotype.com', Courier New, monospace;
+    }	
+        
+ol li	{	
+    list-style-type:	decimal;
+    }	
+
+ol ol li	{	
+    list-style-type:	lower-alpha;
+    }	
+
+ol ol ol li	{	
+    list-style-type:	lower-roman;
+    }	
+
+table, tbody, tr, td	{	
+    font-size:	1em;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    font-family:	Myriad Web, Geneva, Arial, Helvetica, sans-serif;
+    font-size-adjust:	.48;
+    }	
+        
+
+h1	{	
+    font-family:	Impact, Arial Black, Helvetica Black, sans-serif;
+    font-size-adjust:	.46;
+    font-size:	2.33em;
+    font-weight:	400;
+    font-style:	normal;
+    text-decoration:	none;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    }	
+        
+h2	{	
+    font-family: "Courier New", Courier, monospace;
+    font-size: 21px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #2810FF;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: lowercase;
+    }	
+        
+h3	{	
+    font-family:	Arial Narrow, Helvetica Narrow, sans-serif;
+    font-size-adjust:	.46;
+    font-size:	1.58em;
+    font-weight:	700;
+    font-style:	normal;
+    text-decoration:	none;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    }	
+        
+h4	{	
+    font-family:	Arial Narrow, Helvetica Narrow, sans-serif;
+    font-size-adjust:	.46;
+    font-size:	1.33em;
+    font-weight:	600;
+    font-style:	normal;
+    text-decoration:	none;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    }	
+        
+h5, dt	{	
+    font-family:	Arial Narrow, Helvetica Narrow, sans-serif;
+    font-size-adjust:	.46;
+    font-size:	1.17em;
+    font-weight:	600;
+    font-style:	normal;
+    text-decoration:	none;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    }	
+        
+h6	{	
+    font-family:	Arial Narrow, Helvetica Narrow, sans-serif;
+    font-size-adjust:	.46;
+    font-size:	1em;
+    font-weight:	600;
+    font-style:	normal;
+    text-decoration:	none;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    }	
+        
+tfoot, thead	{	
+    font-size:	1em;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    font-family:	Arial Narrow, Helvetica Narrow, sans-serif;
+    font-size-adjust:	.46;
+    }	
+        
+th	{	
+    vertical-align:	baseline;
+    font-size:	1em;
+    font-weight:	bold;
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    font-family:	Arial Narrow, Helvetica Narrow, sans-serif;
+    font-size-adjust:	.46;
+    }	
+        
+hr	{	
+    visibility:	visible;
+    }	
+
+        
+a, address, blockquote, body, cite, code, dd, del, dfn,		
+div, dl, dt, em, form, h1, h2, h3, h4, h5, h6, iframe, img, kbd,		
+li, object, ol, p, q, samp, small, span, strong, sub, sup, ul, var, 		
+applet, big, center, dir, font, hr, menu, pre,		
+abbr, acronym, bdo, button, fieldset, ins, label	{	
+    word-spacing:	normal;
+    letter-spacing:	normal;
+    text-transform:	none;
+    text-decoration:	none;
+    border-color:	black;
+    border-style:	none;
+    }	
+        

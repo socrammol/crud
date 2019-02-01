@@ -1,0 +1,23 @@
+<% include header.ejs %>
+<body>
+
+    <div class="col-md-12">
+    <h2 class=>Registrar<h2>
+    </div>
+    <form action="/show" method="POST" class="col-md-12">
+        <div >
+            <input type="text" placeholder="Nome" name="name">
+            <input type="text" placeholder="Sobrenome" name="surname">
+        </div>
+        <div >
+            <input type="text" placeholder="Email" name="Email">
+            <input type="text" placeholder="Senha" name="Senha">
+        </div>
+        <div>
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </div>
+        
+    </form> 
+
+</body>
+<% include footer.ejs %>
